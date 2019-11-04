@@ -1,1 +1,1 @@
-# OJAS Job Portal is a static web application.
+# OJAS Job Portal 
